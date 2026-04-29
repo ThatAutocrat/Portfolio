@@ -4,5 +4,5 @@
 
 ![photo-collage png(2)](https://github.com/ThatAutocrat/Portfolio/assets/90076740/3d22bc2d-c077-4242-a911-675cbd589d61)
 
-## **Live site: http://devashishgogoi.lovestoblog.com/**
+## **Live site: https://devashishgogoi-portfolio.vercel.app//**
 
